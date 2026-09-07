@@ -1,0 +1,7 @@
+{
+  "name": "مخطط تجديد وفرش الشقة المعماري",
+  "description": "منصة معمارية تفاعلية لإعادة توزيع غرف الشقة وفرشها بمقاسات دقيقة وعرض ثنائي وثلاثي الأبعاد وحمام ماستر خاص ومطبخ مطور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
